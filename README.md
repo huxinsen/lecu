@@ -12,6 +12,13 @@ You need to install [MySQL](https://www.mysql.com/) and [Node](https://nodejs.or
 
 Create a new database named `promotion` and import the `promotion.sql`. Then go into separate subprojects and follow the instructions.
 
+### Subprojects
+
+- [lecu-server](https://github.com/huxinsen/lecu-server)
+- [lecu-owner](https://github.com/huxinsen/lecu-owner)
+- [lecu-admin](https://github.com/huxinsen/lecu-admin)
+- [lecu-user](https://github.com/huxinsen/lecu-user)
+
 ## Built With
 
 - [Vue.js](https://vuejs.org/index.html) - The front-end framework used
